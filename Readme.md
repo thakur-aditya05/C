@@ -1,1 +1,3 @@
-# This is for c++ notes
+# C++ notes
+PW skills
+
